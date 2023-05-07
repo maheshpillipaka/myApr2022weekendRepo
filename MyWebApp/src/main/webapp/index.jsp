@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Welcome to the New Java Web Application</h2>
-</head>
+<html>
 <body>
+<h2>Hi EveryOne Welcome to the New Java Web Application Hosted in GitHub into Cloud!!!</h2>
+</head>
+</body>
 </html>
